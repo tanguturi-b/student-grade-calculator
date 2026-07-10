@@ -11,5 +11,12 @@ A simple Python program that calculates:
 ## Technologies Used
 - Python
 
+## Features
+- Takes student details as input
+- Calculates total marks
+- Calculates average
+- Assigns grades
+- Displays pass/fail result
+
 ## Author
-Tanguturib
+Tanguturi-b
